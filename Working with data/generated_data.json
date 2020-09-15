@@ -1,0 +1,80 @@
+{
+    "basic_data": {
+        "rows": 100,
+        "columns": 100,
+        "drones": 3,
+        "turns": 500,
+        "max_payload": 500
+    },
+    "types_products_count": 4,
+    "products_data": {
+        "0": 72,
+        "1": 130,
+        "2": 133,
+        "3": 203
+    },
+    "warehouses_count": 2,
+    "warehouses_data": {
+        "0": {
+            "coordinates": [
+                18,
+                67
+            ],
+            "products": [
+                4,
+                6,
+                4,
+                1
+            ]
+        },
+        "1": {
+            "coordinates": [
+                71,
+                51
+            ],
+            "products": [
+                8,
+                3,
+                10,
+                4
+            ]
+        }
+    },
+    "orders_count": 3,
+    "orders_data": {
+        "0": {
+            "coordinates": [
+                93,
+                41
+            ],
+            "count_products": 2,
+            "product_types": [
+                1,
+                2
+            ]
+        },
+        "1": {
+            "coordinates": [
+                37,
+                15
+            ],
+            "count_products": 3,
+            "product_types": [
+                2,
+                1,
+                0
+            ]
+        },
+        "2": {
+            "coordinates": [
+                64,
+                27
+            ],
+            "count_products": 2,
+            "product_types": [
+                3,
+                2
+            ]
+        }
+    }
+}
